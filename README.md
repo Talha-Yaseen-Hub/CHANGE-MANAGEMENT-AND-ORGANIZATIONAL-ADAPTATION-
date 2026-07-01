@@ -18,8 +18,6 @@
 
 ---
 
----
-
 ## 📖 Table of Contents
 
 <details open>
