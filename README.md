@@ -1,31 +1,22 @@
-<a id="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:9D0208,100:FFD60A&height=200&section=header&text=Change%20Management&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%26%20Organizational%20Adaptation%20%E2%80%94%20Introduction%20to%20Management%20Project&descAlignY=58&descSize=16"/>
+# 📈 Change Management & Organizational Adaptation
 
-<img src="https://img.shields.io/badge/University-Punjab-0B132B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Department-PUCIT-FFD60A?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Course-Introduction%20To%20Management-9D0208?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Instructor-Mam%20Anam-4F9CF9?style=for-the-badge"/>
+### Introduction to Management Project
+
+<img src="https://img.shields.io/badge/University-Punjab-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Department-PUCIT-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Course-Introduction%20To%20Management-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instructor-Mam%20Anam-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Language-English-success?style=for-the-badge"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Change%20Models%20Covered-3-lightgrey?style=flat-square"/>
-<img src="https://img.shields.io/badge/Case%20Studies-3%20(2%20%2B%201%20Bonus)-lightgrey?style=flat-square"/>
-<img src="https://img.shields.io/badge/Group%20Members-5-lightgrey?style=flat-square"/>
-<img src="https://img.shields.io/badge/References-8-lightgrey?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Talha-Yaseen-Hub&label=Repository%20Views&color=9d0208&style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=4F9CF9&center=true&vCenter=true&width=800&lines=Change+Management;Organizational+Adaptation;Lewin%27s+3-Stage+Model;Kotter%27s+8-Step+Model;The+ADKAR+Model;Leadership+%26+Culture;Microsoft+vs+Kodak"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Change+Management;Organizational+Adaptation;Leadership;Lewin+Model;Kotter+Model;ADKAR+Model"/>
 
 </div>
+
+---
 
 ---
 
