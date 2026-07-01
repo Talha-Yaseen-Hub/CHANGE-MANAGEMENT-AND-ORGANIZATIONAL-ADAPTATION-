@@ -1,6 +1,7 @@
 <div align="center">
 
-# 📈 Change Management & Organizational Adaptation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:023047,50:FFB703,100:2EC4B6&height=200&section=header&text=Change%20Management%20And%20Organizational%20Adaptation&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Advanced%20Oracle%20SQL%20%2B%20PL%2FSQL%20Backend%20Engine&descAlignY=58&descSize=18"/>
+
 
 ### Introduction to Management Project
 
