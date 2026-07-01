@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,50:34495E,100:4A5568&height=220&section=header&text=Change%20Management%20And%20Organizational%0AAdaptation&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FFD700,100:00008B&height=220&section=header&text=Change%20Management%20And%20Organizational%0AAdaptation&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
 
 ### Introduction to Management Project
